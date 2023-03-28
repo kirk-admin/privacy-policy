@@ -40,7 +40,9 @@
 
 <p>For more general information on cookies, please read <a href="https://www.generateprivacypolicy.com/#cookies">the Cookies article on Generate Privacy Policy website</a>.</p>
 
-
+<h2>User's Right to Delete Data</h2>
+<p>If you wish to request the deletion of your personal data, you may do so by contacting us through the contact information provided on our website. Upon receiving your request, we will guide you through the process and inform you of any additional steps that may be required.</p>
+<p>Please note that the deletion of your data may be subject to certain conditions, such as legal or contractual obligations that we must fulfill. We will inform you of any such conditions during the process.</p>
 
 <h2>Advertising Partners Privacy Policies</h2>
 
